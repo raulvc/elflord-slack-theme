@@ -19,3 +19,6 @@ document.addEventListener('DOMContentLoaded', function() {
  });
 });
 ```
+
+# Credits
+https://github.com/laCour/slack-night-mode
